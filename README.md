@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="umamahkhalid08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white">
   </a>
 
@@ -19,41 +19,16 @@
 
 ---
 
-## About Me
-
-```python
 class Umamah:
 
     role = "AI Engineering Student"
     location = "Bahawalpur, Pakistan 🇵🇰"
 
-    stack = {
-        "programming": [
-            "Python",
-            "C++",
-            "JavaScript"
-        ],
+    programming = "Python | JavaScript"
+    frontend = "HTML | CSS | Bootstrap | Tailwind CSS"
+    ai = "Artificial Intelligence | Machine Learning | Data Science"
 
-        "frontend": [
-            "HTML",
-            "CSS",
-            "Bootstrap",
-            "Tailwind CSS"
-        ],
-
-        "ai": [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science"
-        ]
-    }
-
-    practices = [
-        "Problem Solving",
-        "Clean Code",
-        "Continuous Learning",
-        "Building Projects"
-    ]
+    practices = "Problem Solving | Clean Code | Continuous Learning"
 
     def currentlyLearning(self):
-        return "Python, DSA & Machine Learning"
+        return "Python | DSA | Machine Learning"
