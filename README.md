@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Umamah 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B6B9E&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=#637CF5&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Future+AI+Engineer" />
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@
 
 ---
 
+
+
+```python
 class Umamah:
 
     role = "AI Engineering Student"
@@ -28,7 +31,11 @@ class Umamah:
     frontend = "HTML | CSS | Bootstrap | Tailwind CSS"
     ai = "Artificial Intelligence | Machine Learning | Data Science"
 
-    practices = "Problem Solving | Clean Code | Continuous Learning"
+    practices = [
+        "Problem Solving",
+        "Clean Code",
+        "Continuous Learning"
+    ]
 
     def currentlyLearning(self):
-        return "Python | DSA | Machine Learning"
+        return "Python | Data Structures & Algorithms | Machine Learning"
