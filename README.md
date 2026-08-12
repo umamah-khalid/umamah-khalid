@@ -1,32 +1,59 @@
-# 👋 Hi, I'm Umamah Khalid
-
-<h3 align="center">
-  AI Engineering Student | Python Developer | Future AI Engineer
-</h3>
+# Hey, I'm Umamah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Umamah+Khalid+%F0%9F%91%8B;BS+Artificial+Intelligence+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Future+AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=orange&style=flat" alt="Profile Views"/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm **Umamah Khalid**, a **BS Artificial Intelligence student** passionate about building intelligent and useful technology.
+```python
+class Umamah:
+    
+    role = "AI Engineering Student"
+    location = "Bahawalpur, Pakistan 🇵🇰"
 
-- 🎓 Studying **BS Artificial Intelligence**
-- 🐍 Currently learning **Python**
-- 💻 Exploring **Web Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🚀 Building projects to strengthen my programming skills
-- 🌱 Currently improving my problem-solving and development skills
-- 🎯 Goal: Become a professional **AI Engineer**
+    stack = {
+        "programming": [
+            "Python",
+            "C++",
+            "JavaScript"
+        ],
 
----
+        "frontend": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Tailwind CSS"
+        ],
+
+        "ai": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science"
+        ]
+    }
+
+    practices = [
+        "Problem Solving",
+        "Clean Code",
+        "Continuous Learning",
+        "Building Projects"
+    ]
+
+    def currently_learning(self):
+        return "Python, Data Structures & Algorithms & Machine Learning"
 
 ## 🛠️ Tech Stack
 
