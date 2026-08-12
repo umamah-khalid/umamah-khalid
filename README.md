@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1F3A5F&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=umamah-khalid&label=Profile%20Views&color=1F3A5F&style=flat">
 </p>
 
 ---
