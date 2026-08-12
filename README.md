@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Umamah 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=#637CF5&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=637CF5&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Future+AI+Engineer" />
 </p>
 
 <p align="center">
